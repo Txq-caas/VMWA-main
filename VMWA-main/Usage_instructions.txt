@@ -1,0 +1,28 @@
+User Instructions
+1. Launch the Software
+Navigate to the code directory where the VMWA_main.py file is located.
+Run the VMWA_main.py script. Wait for the software interface to open. Typically, it takes approximately 0.9 seconds to instantiate and start the software.
+
+2. Select an Image
+Once the software interface is open, locate and click the Open DBP/BaP Image button.
+A file selection dialog will appear. Navigate to the DBP_sample or BaP_sample folder within the same directory as the script.
+Choose an example image from the respective folder and click Open.
+
+3. Perform Preliminary Concentration Calculation
+After selecting the image, click the Calculate BaP/DBP button.
+The software will perform a preliminary calculation of the concentration based on the selected image.
+
+4. Input Temperature Data
+In the software interface, find the input box labeled Bap_T(℃) or DBP_T(℃), depending on whether you are working with BaP or DBP.
+Select a temperature value from the example concentration data available in the folder.
+Enter the selected temperature value into the corresponding input box.
+
+5. Calculate Final Concentration
+After entering the temperature data, click the Calculate BaP/DBP all button.
+The software will use the selected image and the input temperature data to calculate the final concentration.
+
+6. View Results
+The final concentration detection results and warning information will be displayed at the bottom of the software interface.
+
+Review the results carefully to understand the detected concentration and any associated warnings.
+Please note that the accuracy of the results may depend on the quality of the input image and the temperature data. If you encounter any issues or have questions, please refer to the software documentation or contact the support team.
